@@ -1,0 +1,1 @@
+--> To pass login page: 1) Click on the 'LOGIN' text 
